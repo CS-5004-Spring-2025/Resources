@@ -39,6 +39,7 @@ Here are some extensions for VS Code if you are using it for Java development:
 
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) 
 * [Gradle For Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
+* [Checkstyle](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle)
 * [Mermaid Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 * [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
